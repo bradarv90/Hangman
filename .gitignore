@@ -1,7 +1,12 @@
 # Compiled Object files
+testrunner
+testrunner.cpp
+a.out
 *.slo
 *.lo
 *.o
+.depend
+.bak
 
 # Compiled Dynamic libraries
 *.so
@@ -11,3 +16,13 @@
 *.lai
 *.la
 *.a
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
